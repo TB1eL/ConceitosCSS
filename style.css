@@ -1,9 +1,11 @@
-<<<<<<< HEAD
 h1{
     color: blue;
 }
-=======
+
 p {
   font-family: Arial, Helvetica, sans-serif;
 }
->>>>>>> cb5cb923e33275357f13de74fed11f8d3aaa5e5f
+
+.importante{
+  color: red;
+}
