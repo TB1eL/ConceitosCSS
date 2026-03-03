@@ -20,9 +20,14 @@ input {
     border-color: blue;
   }
 }
+
 button {
   &:hover {
     background-color: aqua;
     cursor: pointer;
   }
+}
+
+.container > div:first-of-type > p {
+  color: red;
 }
