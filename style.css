@@ -13,3 +13,10 @@ p {
 .destaque {
   background-color: yellow;
 }
+
+button{
+  &:hover{
+    background-color:aqua;
+    cursor: pointer;
+  }
+}
