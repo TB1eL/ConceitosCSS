@@ -1,15 +1,22 @@
-h1{
-    color: blue;
+h1 {
+  color: blue;
 }
 
 p {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-.importante{
+.importante {
   color: red;
 }
 
 .destaque {
   background-color: yellow;
+}
+
+input {
+  &.senha {
+    border: 20px 20px;
+    border-color: blue;
+  }
 }
