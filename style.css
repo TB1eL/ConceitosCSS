@@ -31,3 +31,7 @@ button {
 .container > div:first-of-type > p {
   color: red;
 }
+
+p::first-letter {
+  font-size: 30px;
+}
